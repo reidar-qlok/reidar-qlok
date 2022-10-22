@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, music, traweling ...
 - 🌱 I’m currently deepdiving in AI
 - 💞️ I’m looking to collaborate here
-- 📫 How to reach me ...
+- 📫 How to reach me: 4reidar@gmail.com
 
 <!---
 reidar-qlok/reidar-qlok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
