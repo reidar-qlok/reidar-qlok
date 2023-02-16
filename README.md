@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @reidar-qlok
 - 👀 I’m interested in programming, music, traweling ...
-- 🌱 I’m currently trining with deepdiving applications with AI
+- 🌱 I’m currently training building applications with AI
 - 💞️ I’m not looking to collaborate here
 - 📫 How to reach me: 4reidar@gmail.com
 
